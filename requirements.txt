@@ -1,0 +1,13 @@
+streamlit
+numpy
+opencv-python-headless
+scipy
+pandas
+pyyaml
+psutil
+imageio
+imageio-ffmpeg
+paho-mqtt
+# Optional, for real YOLO inference (ONNX / TensorRT / OpenVINO export):
+# ultralytics
+# onnxruntime
